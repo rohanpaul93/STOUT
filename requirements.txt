@@ -1,7 +1,5 @@
 streamlit ==1.7.0
 hydralit
-time
-warnings
 statsmodels
 matplotlib
 cufflinks
