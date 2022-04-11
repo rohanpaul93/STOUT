@@ -205,7 +205,7 @@ def CaseStudy1():
    
 @app.addapp(title='Case Study 2')
 def CaseStudy2():
-    st.write("[Source code + github link](https://github.com/rohanpaul93/Stout/blob/main/case_study_2.py)")
+    st.write("[Source code + github link](https://github.com/rohanpaul93/STOUT/blob/master/case_study_2.py)")
     my_expander2 = st.expander('Description', expanded=True)  
     my_expander2.markdown("<p style='text-align: justify;'>There is 1 dataset(csv) with 3 years worth of customer orders. There are 4 columns in the csv dataset: index, CUSTOMER_EMAIL(unique identifier as hash), Net_Revenue, and Year.</p>", unsafe_allow_html=True)
     
