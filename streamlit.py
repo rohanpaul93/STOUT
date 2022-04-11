@@ -197,8 +197,8 @@ def CaseStudy1():
     my_expander1.header('Model building:')
     my_expander1.markdown("* Since there was alot of work done for cleaning and preprocessing the date, I have linked jupyter notebooks below.")
     my_expander1.markdown("* Lasso, Ridge, Elastic net and XGboost have been tested to predict interest rate.")
-    my_expander1.write("[Step 1](https://github.com/rohanpaul93/Stout/blob/main/step1_cleaning.ipynb)")
-    my_expander1.write("[Step 2](https://github.com/rohanpaul93/Stout/blob/main/model_building.ipynb)")
+    my_expander1.write("[Step 1](https://github.com/rohanpaul93/STOUT/blob/master/step1_cleaning.ipynb)")
+    my_expander1.write("[Step 2](https://github.com/rohanpaul93/STOUT/blob/master/model_building.ipynb)")
     
     my_expander1.markdown("* If I had more time in hand, I would study all the variables in detail and try to do a bivariate analysis. Currently I went solely on the basis on The model importance from both regression and tree based method.")
     my_expander1.markdown("* I feel in this case creating interaction variables would do a good job.") 
