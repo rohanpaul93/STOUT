@@ -10,26 +10,16 @@ import hydralit as hy
 ### Visualization starts here
 ## importing all needed packages
 
-import pandas as pd
-import numpy as np
-import scipy.stats as stats
+
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn import metrics
-import time
+
 import warnings
-from statsmodels.imputation import mice
+
 warnings.filterwarnings('ignore')
 
 from matplotlib import rcParams
-import cufflinks as cf
 
-import plotly.offline as py 
-import plotly.figure_factory as ff 
-import plotly.graph_objs as go 
-
-from plotly import tools 
-import plotly.express as px
 
 #To plot figs on jupyter
 #%matplotlib inline
