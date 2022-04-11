@@ -1,10 +1,6 @@
-streamlit ==1.7.0
+streamlit==1.7.0
 hydralit
+plotly
 statsmodels
 matplotlib
 cufflinks
-plotly
-collections
-xgboost
-itertools
-tqdm
