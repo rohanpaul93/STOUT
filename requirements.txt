@@ -1,10 +1,5 @@
 streamlit ==1.7.0
 hydralit
-pandas 
-numpy
-scipy
-seaborn
-sklearn
 time
 warnings
 statsmodels
